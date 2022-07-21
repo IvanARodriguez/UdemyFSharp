@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8wH1KpYQSPxo/IJWFIp7iBjCHQiIhC/hHlevBdJe5buiQIUldIrMquM2D+r6P+kJR+6FqASQGk0rzafhW80J/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\vs_fsharp\\UdemyFSharp\\ConsoleApp\\ConsoleApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\16175\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
