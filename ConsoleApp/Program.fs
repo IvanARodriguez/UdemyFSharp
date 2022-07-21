@@ -3,6 +3,12 @@
 let sayHello person = 
     printfn "Hello %s from the F# world" person
 
+let isValid person = 
+    String.IsNullOrWhiteSpace person |> not
+
+let isAllowed person =
+    person <> "Juan"
+
 [<EntryPoint>]
 let main argv =
     //if else
@@ -28,7 +34,11 @@ let main argv =
     printfn "\n"
 
     //f# default function to iterate
-    Array.iter sayHello argv
+
+    argv
+    |> Array.filter isValid
+    |> Array.filter isAllowed
+    |> Array.iter sayHello
 
     printfn "Nice to meet you"
     0
