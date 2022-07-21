@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8wH1KpYQSPxo/IJWFIp7iBjCHQiIhC/hHlevBdJe5buiQIUldIrMquM2D+r6P+kJR+6FqASQGk0rzafhW80J/g==",
+  "dgSpecHash": "excQJXXh6EXM4NsTuClY9iUlf2K5xqTQMo7Hi6eiHi7/v19i2Fy0FI5FwCw6N1GdoJjrdJ602A+5Qg3VzYywMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\vs_fsharp\\UdemyFSharp\\ConsoleApp\\ConsoleApp.fsproj",
+  "projectFilePath": "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\UdemyFSharp\\ConsoleApp\\ConsoleApp.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\16175\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
   ],

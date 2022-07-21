@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\vs_fsharp\\UdemyFSharp\\ConsoleApp\\ConsoleApp.fsproj": {}
+    "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\UdemyFSharp\\ConsoleApp\\ConsoleApp.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\vs_fsharp\\UdemyFSharp\\ConsoleApp\\ConsoleApp.fsproj": {
+    "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\UdemyFSharp\\ConsoleApp\\ConsoleApp.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\vs_fsharp\\UdemyFSharp\\ConsoleApp\\ConsoleApp.fsproj",
+        "projectUniqueName": "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\UdemyFSharp\\ConsoleApp\\ConsoleApp.fsproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\vs_fsharp\\UdemyFSharp\\ConsoleApp\\ConsoleApp.fsproj",
+        "projectPath": "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\UdemyFSharp\\ConsoleApp\\ConsoleApp.fsproj",
         "packagesPath": "C:\\Users\\16175\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\vs_fsharp\\UdemyFSharp\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\16175\\Desktop\\Projects\\fsharpCourse\\UdemyFSharp\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
